@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin CRUD Retrofit</string>
+    <string name="image_to_delete">image to delete</string>
+    <string name="to_add_content">to add content</string>
+    <string name="add_notes">Tulis catatan..</string>
+    <string name="save">Simpan</string>
+</resources>
